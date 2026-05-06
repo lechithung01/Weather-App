@@ -21,6 +21,10 @@ https://lechithung01.github.io/Weather-App/
 ## 🔌 API Integration
 - Fetch weather data dynamically using JavaScript
 - Update UI without page reload
+  
+ ## Improvements
+- Handle API errors (invalid city, network issues)
+- Add loading indicator
 
 ## 👤 Author
 Le Chi Thung
