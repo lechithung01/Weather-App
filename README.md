@@ -22,8 +22,5 @@ https://lechithung01.github.io/Weather-App/
 - Fetch weather data dynamically using JavaScript
 - Update UI without page reload
 
-## 📷 Screenshots
-(Add images)
-
 ## 👤 Author
 Le Chi Thung
